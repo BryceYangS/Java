@@ -16,6 +16,12 @@
 
 [정리 글](posting/4_Factory.md)
 
+## 5. Singleton
+
+## 6. Command
+
+[정리 글](posting/6_Command.md)
+
 ## 객체지향 원칙
 
 1. 바뀌는 부분은 캡슐화한다.
