@@ -25,6 +25,7 @@ public class Sol42860Test {
 		assertEquals(11, sol42860.solution("JAZ"));
 
 		assertEquals(23, sol42860.solution("JAN"));
+		assertEquals(7, sol42860.solution("BAAAAABBB"));
 
 	}
 

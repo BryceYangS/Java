@@ -1,3 +1,5 @@
+package etc;
+
 public class SOl3 {
 
     public static int solution(int N, int K) {

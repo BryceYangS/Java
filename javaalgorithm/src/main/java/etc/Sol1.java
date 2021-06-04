@@ -1,3 +1,5 @@
+package etc;
+
 public class Sol1 {
     public static int solution(int N) {
         // write your code in Java SE 11

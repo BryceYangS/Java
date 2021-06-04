@@ -39,4 +39,16 @@ public class SortTest {
 		// then
 		assertArrayEquals(new int[]{1,2,3,5,9,10,31,89}, result);
 	}
+
+	@Test
+	public void quick() throws Exception {
+		// given
+		int[] ints = {9, 89, 2, 1, 10, 5, 31, 3};
+
+		// when
+		// int[] result = sort.quickSort(ints);
+
+		// then
+		// assertArrayEquals(new int[]{1,2,3,5,9,10,31,89}, result);
+	}
 }
