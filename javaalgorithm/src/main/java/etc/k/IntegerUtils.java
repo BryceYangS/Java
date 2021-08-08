@@ -1,4 +1,4 @@
-package etc;
+package etc.k;
 
 public class IntegerUtils {
 
