@@ -10,7 +10,7 @@ import java.util.Arrays;
  * 실전문제 2.
  * 큰 수의 법칙
  */
-public class practice2 {
+public class Practice2 {
 
 	// 5 8 3
 	// 2 4 5 4 6
