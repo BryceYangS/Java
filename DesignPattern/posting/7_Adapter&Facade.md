@@ -1,3 +1,5 @@
+
+
 # Adapter & Facade
 
 ## Adapter
