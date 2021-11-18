@@ -14,7 +14,7 @@ public class Solution989Test {
 	@Test
 	public void case1() throws Exception {
 
-		Assert.assertEquals(Arrays.asList(1,2,3,4), sol.addToArrayForm(new int[]{1,2,0,0}, 34));
+		Assert.assertEquals(Arrays.asList(1,2,3,4), sol.addToArrayForm2(new int[]{1,2,0,0}, 34));
 
 	}
 
