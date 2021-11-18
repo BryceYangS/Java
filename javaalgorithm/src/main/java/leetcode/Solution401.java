@@ -1,8 +1,6 @@
 package leetcode;
 
-import java.sql.Struct;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Solution401 {
@@ -16,8 +14,6 @@ public class Solution401 {
 				}
 			}
 		}
-
 		return rtn;
 	}
-
 }
